@@ -1,0 +1,6 @@
+CREATE TABLE Accounts(
+	account_id INT UNSIGNED NOT NULL AUTO_INCREMENT,
+	username VARCHAR(256) NOT NULL UNIQUE,
+	password VARCHAR(32) NOT NULL,
+	PRIMARY KEY(account_id)
+);
