@@ -1,4 +1,4 @@
-# COEN-174-Project
+# COEN-174-Project: Goal Tracking App
 
 <!--
 ## Introduction
